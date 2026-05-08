@@ -1,0 +1,13 @@
+compute_environment: LOCAL_MACHINE
+deepspeed_config: {}
+distributed_type: MULTI_GPU
+fp16: false  # 启用fp16以节省内存（可选，根据您的代码损失监控）
+machine_rank: 0
+main_process_ip: 127.0.0.1  # 或 localhost
+main_process_port: 29501  # 空闲端口
+main_training_function: main  # 如果您的脚本有main函数，保持；否则忽略
+num_machines: 1
+num_processes: 4  # 两卡
+rdzv_backend: c10d
+same_network: true
+use_cpu: false
