@@ -43,7 +43,7 @@ To train the CRAFT, run:
 
 ## Dataset description
 
-The datasets used in this study are all publicly available. IEDB: https://www.iedb.org/home_v3.php; TCRdb 2.0: https://guolab.wchscu.cn/TCRdb2/; McPAS-TCR:https://friedmanlab.weizmann.ac.il/McPAS-TCR/; VDJdb: https://vdjdb.com/; MIRA: https://www.cancerrxgene.org/downloads/bulk_download}; STCRDab: https://opig.stats.ox.ac.uk/webapps/stcrdab-stcrpred/;TCR-pMHC:https://drive.google.com/drive/folders/1qQmpklcwaRX_bgOJ_3CQShLDTX5oRXht
+The datasets used in this study are all publicly available. IEDB: https://www.iedb.org/home_v3.php; TCRdb 2.0: https://guolab.wchscu.cn/TCRdb2/; McPAS-TCR:https://friedmanlab.weizmann.ac.il/McPAS-TCR/; VDJdb: https://vdjdb.com/; MIRA: https://www.cancerrxgene.org/downloads/bulk_download}; STCRDab: https://opig.stats.ox.ac.uk/webapps/stcrdab-stcrpred/; TCR-pMHC:https://drive.google.com/drive/folders/1qQmpklcwaRX_bgOJ_3CQShLDTX5oRXht
 
 
 # Acknowledgments
