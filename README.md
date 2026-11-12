@@ -17,7 +17,7 @@ This tool is supported for Linux. The tool has been tested on the following syst
 
 ## Installation
 
-To install the required packages for running GRATCR, please use the following command:
+To install the required packages for running CRAFT, please use the following command:
 
 `conda create -n <env_name> python==3.12`
 `conda activate <env_name>`
